@@ -2,7 +2,7 @@
 #### I am a Data Analyst
 I made this just for test
 
-Skills: SQl | Power BI | Excel | Python
+Skills: SQL | Power BI | Excel | Python
 
 - 🔭 I’m currently working on this page. 
 
